@@ -6,5 +6,5 @@ Final project for CS 2261 (Media Device Architecture) | April 2019 | Game Boy Ad
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=IL_M9Gpnf6Y
 " target="_blank"><img src="http://img.youtube.com/vi/IL_M9Gpnf6Y/0.jpg" 
-alt="Unearth Gameplay Video: https://www.youtube.com/watch?v=IL_M9Gpnf6Y" width="1200" height="1200" border="2" /></a>
+alt="Unearth Gameplay Video: https://www.youtube.com/watch?v=IL_M9Gpnf6Y" width="720" height="540" border="2" /></a>
 
